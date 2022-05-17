@@ -124,3 +124,22 @@ body{
 .down{
     margin-top: 50px !important;
 }
+/* ----------------social media sectiioon-------------------- */
+#social a img{
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 100px;
+    
+    
+}
+#social h2{
+    margin-bottom: 150px;
+    text-transform: uppercase;
+    text-shadow:.5px .5px orangered;
+}
+.footer{
+    text-decoration: none !important;
+}
+#social{
+    background-image: linear-gradient(to bottom, orange,teal);
+}
