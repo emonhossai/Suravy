@@ -124,3 +124,54 @@ body{
 .down{
     margin-top: 50px !important;
 }
+/* ----------------social media sectiioon-------------------- */
+#social a img{
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 100px;   
+}
+#social a{
+    margin-left: 3%;
+}
+#social h2{
+    margin-bottom: 150px;
+    text-transform: uppercase;
+    text-shadow:.5px .5px orangered;
+}
+
+#social{
+    background-image: linear-gradient(to bottom, orange,teal);
+}
+/* -------------------------------------- */
+#footer{
+    margin-top: 50px;
+    background-image: linear-gradient(to bottom,teal,orange);
+}
+#footer h3{
+    text-transform: uppercase;
+    margin-top: 10%;
+    margin-bottom: 20px;
+}
+#footer img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: linear-gradient(to bottom,teal,orange);
+}
+#footer .icon{
+    width: 40px;
+    margin-right: 1%;
+    border-radius: 50%;
+}
+#footer .btn-bg{
+    background-image: linear-gradient(to bottom,teal,orange);
+    padding: 10px 15px;
+}
+#footer .margin{
+    /* margin-top: 100px; */
+    margin-bottom: 100px;
+
+}
+.bottom{
+   padding-bottom: 10px;
+}
